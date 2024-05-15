@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Bersama Membangun Kerajaan Yang Dipenuhi Kebahagiaan",
+    "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus dolor, accusantium, deserunt vero optio reprehenderit laudantium molestias cum, numquam soluta nulla possimus porro. Inventore, ipsa nemo? Quisquam magni recusandae harum.",
+    "img": "swiper-image-1.jpeg",
+    "link": ""
+  },
+  {
+    "id": 2,
+    "title": "Bersama Menghancurkan Kerajaan Yang Dipenuhi Kejanggalan",
+    "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus dolor, accusantium, deserunt vero optio reprehenderit laudantium molestias cum, numquam soluta nulla possimus porro. Inventore, ipsa nemo? Quisquam magni recusandae harum.",
+    "img": "swiper-image-1.jpeg",
+    "link": ""
+  }
+]

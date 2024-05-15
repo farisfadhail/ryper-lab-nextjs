@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "img": "python-logo.png",
+    "name": "Algortima 1"
+  },
+  {
+    "id": 2,
+    "img": "python-logo.png",
+    "name": "Algortima 2"
+  },
+  {
+    "id": 3,
+    "img": "python-logo.png",
+    "name": "SQL 1"
+  },
+  {
+    "id": 4,
+    "img": "python-logo.png",
+    "name": "SQL 2"
+  }
+]

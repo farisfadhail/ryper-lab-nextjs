@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+.swiper-button-prev::after,
+.swiper-button-next::after {
+  color: white;
+  font-size: 1px;
+}
+
+.swiper-button-next {
+  padding-right: 1.5rem;
+}
+
+.swiper-button-prev {
+  padding-left: 1.5rem;
+}
+
+@media (min-width: 768px) {
+  .swiper-button-next {
+    padding-right: 3.5rem;
+  }
+
+  .swiper-button-prev {
+    padding-left: 3.5rem;
+  }
+}

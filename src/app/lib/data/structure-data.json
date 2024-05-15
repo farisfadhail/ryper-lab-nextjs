@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "img": "swiper-image-1.jpeg",
+    "name": "Isabel Aprilia",
+    "position": "Sekretaris 2"
+  },
+  {
+    "id": 2,
+    "img": "swiper-image-1.jpeg",
+    "name": "Aisyah Auliana",
+    "position": "Bendahara 1"
+  },
+  {
+    "id": 3,
+    "img": "swiper-image-1.jpeg",
+    "name": "Alexander Dwi",
+    "position": "Koordinator Praktikum"
+  },
+  {
+    "id": 4,
+    "img": "swiper-image-1.jpeg",
+    "name": "Annisa Wulandari",
+    "position": "Koordinator Penelitian"
+  },
+  {
+    "id": 5,
+    "img": "swiper-image-1.jpeg",
+    "name": "Neifa Ulil Layli",
+    "position": "Media Kreatif"
+  },
+  {
+    "id": 6,
+    "img": "swiper-image-1.jpeg",
+    "name": "Ilham Wisnu",
+    "position": "Anggota Penelitian Pengembangan"
+  },
+  {
+    "id": 7,
+    "img": "swiper-image-1.jpeg",
+    "name": "Reihan Wudd",
+    "position": "Anggota Penelitian Pengembangan"
+  },
+  {
+    "id": 8,
+    "img": "swiper-image-1.jpeg",
+    "name": "Ando Zamhariro",
+    "position": "Anggota Penelitian Pengembangan"
+  },
+  {
+    "id": 9,
+    "img": "swiper-image-1.jpeg",
+    "name": "Nur Bashori Rahmat",
+    "position": "Anggota Penelitian Pengembangan"
+  },
+  {
+    "id": 10,
+    "img": "swiper-image-1.jpeg",
+    "name": "Raka Febrian",
+    "position": "Anggota Penelitian Pengembangan"
+  },
+  {
+    "id": 11,
+    "img": "swiper-image-1.jpeg",
+    "name": "Suhailah Nuriyah",
+    "position": "Anggota Penelitian Pengembangan"
+  },
+  {
+    "id": 12,
+    "img": "swiper-image-1.jpeg",
+    "name": "Fajrin Nurman Arifin",
+    "position": "Pembina Lab"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "year": "2017",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+    "img": "swiper-image-1.jpeg"
+  },
+  {
+    "id": 2,
+    "year": "2018",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+    "img": "swiper-image-1.jpeg"
+  },
+  {
+    "id": 3,
+    "year": "2019",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+    "img": "swiper-image-1.jpeg"
+  }
+]
