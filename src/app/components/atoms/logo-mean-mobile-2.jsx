@@ -5,7 +5,7 @@ export default function LogoMeanMobile2() {
 				<div className="size-2 bg-white rounded-full"></div>
 				<div className="h-0.5 bg-white md:w-32 w-16"></div>
 			</div>
-			<p className="text-white md:text-sm text-xs absolute md:bottom-8 -bottom-4 md:left-[17rem] left-40">Burung Belibis yang dalam bahasa Norwegia yaitu &quot;rype&quot; sebagai dasar nama dari lab kita</p>
+			<p className="text-white md:text-sm text-xs absolute md:bottom-8 -bottom-4 md:left-[17rem] left-40">Burung Belibis yang dalam bahasa Norwegia yaitu &apos;rype&apos; sebagai dasar nama dari lab kita</p>
 		</>
 	);
 }
